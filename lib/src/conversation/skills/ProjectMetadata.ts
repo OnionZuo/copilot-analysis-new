@@ -1,0 +1,1 @@
+var lookups = [new JavaProjectMetadataLookup(), new JavaScriptProjectMetadataLookup(), new GoProjectMetadataLookup(), new PythonProjectMetadataLookup(), new PhpProjectMetadataLookup(), new CSharpProjectMetadataLookup(), new DartProjectMetadataLookup(), new RubyProjectMetadataLookup(), new RustProjectMetadataLookup(), new CProjectMetadataLookup()];

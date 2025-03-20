@@ -1,0 +1,1 @@
+var mandatorySkills = __name(() => [ProjectMetadataSkillId, ProjectLabelsSkillId, ReferencesSkillId, CurrentEditorSkillId], "mandatorySkills");

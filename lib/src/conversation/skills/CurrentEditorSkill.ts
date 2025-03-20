@@ -1,0 +1,1 @@
+var CurrentEditorSkillId = "current-editor";

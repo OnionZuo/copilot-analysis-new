@@ -1,0 +1,1 @@
+var conversationLogger = new Logger("chat");

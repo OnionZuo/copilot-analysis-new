@@ -1,0 +1,1 @@
+var GITHUB_MINIMAL_SCOPE = ["user:email"];
